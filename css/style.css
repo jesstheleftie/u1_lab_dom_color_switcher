@@ -46,3 +46,11 @@ p {
 .yellow {
   background-color: yellow;
 }
+
+.picture {
+  background-color: grey;
+}
+
+.video{
+  background-color: orange;
+}
